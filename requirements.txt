@@ -16,7 +16,6 @@ gitpython
 hachoir
 Faker
 pydub
-NTgCalls==1.2.1
 pycountry
 heroku3
 motor==3.3.2
